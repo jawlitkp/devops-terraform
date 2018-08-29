@@ -1,9 +1,9 @@
 variable "gcp_project" {
-  default = "gcp-devops-terraform"
+  default = "my-devops-org"
 }
 
 variable "module_path" {
-  default = "/Users/jp0003/Documents/devops/devops-terraform/modules"
+  default = "/Users/jp0003/Documents/devops/devops-terraform/server_build"
 }
 
 //Spinnaker
